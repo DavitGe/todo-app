@@ -1,7 +1,7 @@
 <div align="center">
   <h1>📅<br>Todo application</h1>
   <h3>made with ReactJs</h3>
-  <h3><a href="https://matthewjigalin-react-portfolio.netlify.app/" target="_blank">Live Preview</a></h3>
+  <h3><a href="https://davitge.github.io/todo-app/" target="_blank">Live Preview</a></h3>
 </div>
 
 <div align="center"><img src="https://github.com/DavitGe/todo-app/blob/main/Screenshot%202023-05-20%20at%2020.40.39.png?raw=true" /></div>
